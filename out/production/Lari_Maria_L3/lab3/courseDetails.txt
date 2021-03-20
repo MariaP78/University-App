@@ -1,0 +1,8 @@
+Course Name: BD
+Students:
+Mihai Oancea
+
+Course Name: SGBD
+Students:
+Mihai Oancea
+

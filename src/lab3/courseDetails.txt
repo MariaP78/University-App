@@ -1,0 +1,8 @@
+Course Name: BD
+Students:
+Maria Papuc
+
+Course Name: SGBD
+Students:
+Maria Papuc
+

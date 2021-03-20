@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lab3</OriginalElement>
+  <nodes>
+    <node x="633.0" y="1256.0">lab3.controller.CourseController</node>
+    <node x="800.0" y="1826.0">lab3.StartApp</node>
+    <node x="271.0" y="963.0">lab3.repository.CourseRepository</node>
+    <node x="217.0" y="1256.0">lab3.model.Person</node>
+    <node x="0.0" y="1826.0">lab3.view.StudentView</node>
+    <node x="766.0" y="952.0">lab3.repository.TeacherRepository</node>
+    <node x="1636.0" y="1571.0">lab3.controller.SimpleTestClassToBeDeleted</node>
+    <node x="912.0" y="1571.0">lab3.RegistrationSystem</node>
+    <node x="0.0" y="1405.0">lab3.model.Student</node>
+    <node x="514.0" y="963.0">lab3.repository.StudentRepository</node>
+    <node x="546.0" y="760.0">lab3.repository.ICrudRepository</node>
+    <node x="0.0" y="0.0">lab3.controller.CourseControllerTests</node>
+    <node x="0.0" y="760.0">lab3.repository.TeacherRepoTests</node>
+    <node x="930.0" y="1256.0">lab3.model.PersonTests</node>
+    <node x="1318.0" y="1571.0">lab3.RegistrationSystemTests</node>
+    <node x="1259.0" y="0.0">lab3.controller.TeacherControllerTests</node>
+    <node x="1197.0" y="1256.0">lab3.controller.StudentController</node>
+    <node x="548.0" y="1571.0">lab3.model.Course</node>
+    <node x="1343.0" y="760.0">lab3.model.TeacherTests</node>
+    <node x="1566.0" y="0.0">lab3.repository.StudentRepoTests</node>
+    <node x="271.0" y="1826.0">lab3.view.TeacherView</node>
+    <node x="1045.0" y="760.0">lab3.model.StudentTests</node>
+    <node x="642.0" y="0.0">lab3.controller.StudentControllerTests</node>
+    <node x="981.0" y="0.0">lab3.repository.CourseRepoTests</node>
+    <node x="339.0" y="0.0">lab3.model.CourseTests</node>
+    <node x="0.0" y="1571.0">lab3.MenuUniversityApplication</node>
+    <node x="314.0" y="1416.0">lab3.model.Teacher</node>
+    <node x="539.0" y="1826.0">lab3.view.CourseView</node>
+    <node x="1508.0" y="1256.0">lab3.controller.TeacherController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="lab3.repository.StudentRepository" target="lab3.repository.ICrudRepository">
+      <point x="0.0" y="-116.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+    <edge source="lab3.repository.TeacherRepository" target="lab3.repository.ICrudRepository">
+      <point x="0.0" y="-127.0" />
+      <point x="883.0" y="927.0" />
+      <point x="686.0" y="927.0" />
+      <point x="56.0" y="71.0" />
+    </edge>
+    <edge source="lab3.repository.CourseRepository" target="lab3.repository.ICrudRepository">
+      <point x="0.0" y="-116.0" />
+      <point x="382.5" y="927.0" />
+      <point x="574.0" y="927.0" />
+      <point x="-56.0" y="71.0" />
+    </edge>
+    <edge source="lab3.model.Teacher" target="lab3.model.Person">
+      <point x="0.0" y="-49.5" />
+      <point x="451.0" y="1380.0" />
+      <point x="340.0" y="1380.0" />
+      <point x="41.0" y="49.5" />
+    </edge>
+    <edge source="lab3.model.Student" target="lab3.model.Person">
+      <point x="0.0" y="-60.5" />
+      <point x="147.0" y="1380.0" />
+      <point x="258.0" y="1380.0" />
+      <point x="-41.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5144821264894591" x="926.5829324781758" y="1474.8825939782648" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

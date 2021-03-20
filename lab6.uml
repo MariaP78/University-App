@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lab3</OriginalElement>
+  <nodes>
+    <node x="0.0" y="831.0">lab3.StartApp</node>
+    <node x="560.0" y="0.0">lab3.TeacherControllerFX</node>
+    <node x="0.0" y="0.0">lab3.StudentControllerFX</node>
+    <node x="280.0" y="0.0">lab3.StartControllerFX</node>
+    <node x="0.0" y="952.0">lab3.view</node>
+    <node x="192.0" y="831.0">lab3.repository</node>
+    <node x="413.0" y="831.0">lab3.controller</node>
+    <node x="0.0" y="386.0">lab3.MenuUniversityApplication</node>
+    <node x="634.0" y="831.0">lab3.model</node>
+    <node x="0.0" y="619.0">lab3.RegistrationSystem</node>
+    <node x="406.0" y="619.0">lab3.RegistrationSystemTests</node>
+    <node x="724.0" y="619.0">lab3.MyReaderClass</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.30439121756487025" x="446.0" y="491.0" />
+  <SelectedNodes>
+    <node>lab3.StartApp</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
